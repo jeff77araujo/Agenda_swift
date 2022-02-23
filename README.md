@@ -2,10 +2,10 @@
 App Agenda
 
 App usado para sincronizar informações locais (CoreData) com dados do servidor (.jar), e usando o Alamofire, foi efetuado o CRUD para os dados cadastrais dos Alunos.
+<br>
+Para rodar o servidor local: <br>
+Abrir terminal <br>
+entrar na pasta do arquivo server <br>
+rodar o comando: java -jar server.jar <br>
 
-Para rodar o servidor local:
-Abrir terminal
-entrar na pasta do arquivo server
-rodar o comando: java -jar server.jar
-
-<img src="https://github.com/jeff77araujo/Agenda_swift/blob/main/print_agenda.png" height=500 width=1200 /> 
+<img src="https://github.com/jeff77araujo/Agenda_swift/blob/main/print_agenda.png" height=600 width=1200 /> 
