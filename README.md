@@ -1,8 +1,8 @@
 # Agenda_swift
-App Agenda
+<strong> Aplicativo Agenda </strong>
 
 App usado para sincronizar informações locais (CoreData) com dados do servidor (.jar), e usando o Alamofire, foi efetuado o CRUD para os dados cadastrais dos Alunos.
-<br>
+<br><br>
 Para rodar o servidor local: <br>
 Abrir terminal <br>
 entrar na pasta do arquivo server <br>
